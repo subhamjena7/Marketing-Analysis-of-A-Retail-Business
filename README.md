@@ -1,4 +1,4 @@
-# Marketing Analysis Project
+# Marketing Analysis of A Retail Business
 
 ## Project Overview
 ShopEasy, an online retail business, has been experiencing reduced customer engagement and declining conversion rates despite significant investments in online marketing campaigns. This project aimed to conduct a detailed analysis of ShopEasy's marketing strategies to uncover actionable insights and recommend improvements.
